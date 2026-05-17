@@ -1,0 +1,8 @@
+{
+  "short_name": "Credit Lounge",
+  "name": "Credit Lounge by Kris",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a0f0a",
+  "background_color": "#0a0f0a"
+}
